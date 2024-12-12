@@ -11,7 +11,7 @@ function exibirTextoNaTela(tag, texto) {
 //Testando commit da mensagem --- Primeiro add depois commit e então push
 function exibirMensagemInicial() {
     exibirTextoNaTela('h1', 'Jogo do numero secreto');
-    exibirTextoNaTela('p', 'Escolha um número entre 1 e 50');
+    exibirTextoNaTela('p', 'Escolha um número entre 1 e 500');
 }
 
 exibirMensagemInicial();
