@@ -1,5 +1,7 @@
 ## Estudo de programação
 
+<img src="C:\Users\febar\OneDrive\Documentos\Estudos\jogo numero secreto\img\foto para readme media.png" alt="">
+
 - **Introdução**
 
 Projeto utilizando tecnologias HTML, CSS e JAvascript para criar jogo de numero secreto, adicionando algumas funcionalidades e aparencias diferentes do modelo base fornecido pelo curso da Alura.
