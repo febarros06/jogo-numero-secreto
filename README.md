@@ -1,6 +1,6 @@
 ## Estudo de programação
 
-<img src="" alt="colocar aqui foto da prévia do jogo">
+![foto para readme media](https://github.com/user-attachments/assets/f9bc5e9d-8efd-4603-95a4-bdaf1de03246)
 
 
 - **Introdução**
