@@ -1,5 +1,7 @@
 ## Estudo de programação
 
+<img src="https://github.com/febarros06/jogo-numero-secreto/edit/main/img/foto%20para%20readme%20media.png" alt="Jogo do número secreto">
+
 - **Introdução**
 
 Projeto utilizando tecnologias HTML, CSS e JAvascript para criar jogo de numero secreto, adicionando algumas funcionalidades e aparencias diferentes do modelo base fornecido pelo curso da Alura.
