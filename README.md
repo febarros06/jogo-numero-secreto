@@ -18,3 +18,5 @@ Basicamente o jogo pede para o usuário informar um número, esse numero é comp
 
 ## Contato
 [Meu meu perfil no linkedin](https://www.linkedin.com/in/fernando-barros-2140b344/)
+
+![foto pequena do site de hospedagem https://pasteboard.co para colocar readme.md - Uma previa da tela do jogo](https://pasteboard.co/F8KVE9qMWr8k.png)
