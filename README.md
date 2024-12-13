@@ -1,6 +1,6 @@
 ## Estudo de programação
 
-![foto para readme pequena](https://github.com/user-attachments/assets/3328cb3f-d873-48cb-a702-01448b8bab43)
+![foto para readme.md pequena. Uma previa da tela do jogo](https://github.com/user-attachments/assets/3328cb3f-d873-48cb-a702-01448b8bab43)
 
 
 - **Introdução**
