@@ -21,9 +21,3 @@ Basicamente o jogo pede para o usuário informar um número, esse numero é comp
 ## Contato
 
 <a href="https://www.linkedin.com/in/fernando-barros-2140b344/"><img src="https://github.com/user-attachments/assets/57556b6a-7bd6-4b64-8537-7e21e9629486" align="left" alt="Meu perfil linkedin" /></a>
-
-
-- **Preview do site**
-
-![foto pequena do site de hospedagem https://pasteboard.co para colocar readme.md - Uma previa da tela do jogo](https://gcdnb.pbrd.co/images/F8KVE9qMWr8k.png?o=1)
-
