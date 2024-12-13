@@ -19,7 +19,7 @@ Basicamente o jogo pede para o usuário informar um número, esse numero é comp
 
 
 ## Contato
-[Meu meu perfil no linkedin](https://www.linkedin.com/in/fernando-barros-2140b344/)
+[Meu meu perfil no linkedin](https://logospng.org/wp-content/uploads/linkedin.png)(https://www.linkedin.com/in/fernando-barros-2140b344/)
 
 
 - **Preview do site**
