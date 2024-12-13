@@ -1,6 +1,7 @@
 ## Estudo de programação
 
-<img src="C:\Users\febar\OneDrive\Documentos\Estudos\jogo numero secreto\img\foto para readme media.png" alt="">
+<img src="http://127.0.0.1:5500/index.html" alt="">
+
 
 - **Introdução**
 
