@@ -20,13 +20,10 @@ Basicamente o jogo pede para o usuário informar um número, esse numero é comp
 
 ## Contato
 
-<a href="https://logospng.org/wp-content/uploads/linkedin.png"></a><img src="https://www.linkedin.com/in/fernando-barros-2140b344/"></a>
-
- <a href="https://www.linkedin.com/in/fernando-barros-2140b344/"><img src="https://logospng.org/wp-content/uploads/linkedin.png" align="" alt="Meu perfil linkedin" /></a>
-
-<a href="https://x.com/docusaurus"><img src="https://img.shields.io/twitter/follow/docusaurus.svg?style=social" align="right" alt="Twitter Follow" /></a>
+<a href="https://www.linkedin.com/in/fernando-barros-2140b344/"><img src="https://png.pngtree.com/element_our/20190528/ourmid/pngtree-linkedin-free-png-image-image_1144393.jpg" align="left" alt="Meu perfil linkedin" /></a>
 
 
 - **Preview do site**
 
 ![foto pequena do site de hospedagem https://pasteboard.co para colocar readme.md - Uma previa da tela do jogo](https://gcdnb.pbrd.co/images/F8KVE9qMWr8k.png?o=1)
+
