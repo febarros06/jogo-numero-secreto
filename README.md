@@ -1,6 +1,6 @@
 ## Estudo de programação
 
-![foto para readme media](https://github.com/user-attachments/assets/f9bc5e9d-8efd-4603-95a4-bdaf1de03246)
+![foto para readme pequena](https://github.com/user-attachments/assets/3328cb3f-d873-48cb-a702-01448b8bab43)
 
 
 - **Introdução**
